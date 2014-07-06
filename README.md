@@ -1,4 +1,4 @@
-TPC-DS_HIveQL_Query
+TPC-DS_HiveQL_Query
 ===================
 Hive QLs are not all compitable with SQL99.
 So I change some syntax of the query in TPC-DS.
